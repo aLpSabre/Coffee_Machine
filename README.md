@@ -1,6 +1,6 @@
 # Coffee_Machine
-Coffee Machine program, written with Python 3.
+Coffee Machine Program is written with Python3.
 
-You find the program requirements in the PDF file. 
+You can find the program requirements in the PDF file. 
 
 Enjoy! 
